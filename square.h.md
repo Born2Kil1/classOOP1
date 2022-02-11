@@ -1,5 +1,6 @@
 ```C++
 
+//Работу выполнил Арефьев Роман ВМК-20
 #pragma once
 #include <iostream>
 #include <string>
@@ -22,4 +23,5 @@ public:
 	square();                     
 	square(float a1);             //Конструктор с параметрами 
 };
+
 ```
